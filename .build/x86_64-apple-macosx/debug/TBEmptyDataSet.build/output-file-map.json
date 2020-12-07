@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/master.swiftdeps"
+  },
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Constants.swift": {
+    "dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Constants.d",
+    "object": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Constants.swift.o",
+    "swiftmodule": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Constants.swiftdeps"
+  },
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/EmptyDataView.swift": {
+    "dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/EmptyDataView.d",
+    "object": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/EmptyDataView.swift.o",
+    "swiftmodule": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/EmptyDataView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/EmptyDataView.swiftdeps"
+  },
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Protocols.swift": {
+    "dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Protocols.d",
+    "object": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Protocols.swift.o",
+    "swiftmodule": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Protocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/Protocols.swiftdeps"
+  },
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/TBEmptyDataSet.swift": {
+    "dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/TBEmptyDataSet.d",
+    "object": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/TBEmptyDataSet.swift.o",
+    "swiftmodule": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/TBEmptyDataSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/TBEmptyDataSet.swiftdeps"
+  },
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/WeakObjectContainer.swift": {
+    "dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/WeakObjectContainer.d",
+    "object": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/WeakObjectContainer.swift.o",
+    "swiftmodule": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/WeakObjectContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet/WeakObjectContainer.swiftdeps"
+  }
+}

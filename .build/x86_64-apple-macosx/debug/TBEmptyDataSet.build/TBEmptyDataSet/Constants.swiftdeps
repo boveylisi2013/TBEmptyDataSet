@@ -1,0 +1,443 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AssociatedKeys"
+- "Selectors"
+- "TableViewSelectors"
+- "CollectionViewSelectors"
+- "DefaultValues"
+provides-nominal:
+- "14TBEmptyDataSet14AssociatedKeysV"
+- "14TBEmptyDataSet9SelectorsV"
+- "14TBEmptyDataSet18TableViewSelectorsV"
+- "14TBEmptyDataSet23CollectionViewSelectorsV"
+- "14TBEmptyDataSet13DefaultValuesV"
+provides-member:
+- ["14TBEmptyDataSet14AssociatedKeysV", ""]
+- ["14TBEmptyDataSet9SelectorsV", ""]
+- ["14TBEmptyDataSet18TableViewSelectorsV", ""]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", ""]
+- ["14TBEmptyDataSet13DefaultValuesV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Array"
+- "AssociatedKeys"
+- "CGFloat"
+- "CollectionViewSelectors"
+- "DefaultValues"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Selectors"
+- "StringLiteralType"
+- "TableViewSelectors"
+- "UICollectionView"
+- "UICollectionViewDataSource"
+- "UIScrollView"
+- "UITableView"
+- "UITableViewDataSource"
+- "verticalSpace"
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataSetDataSource"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataSetDelegate"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataView"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "init"]
+- ["SK", ""]
+- ["So15CALayerDelegateP", "endUpdates"]
+- ["So15CALayerDelegateP", "performBatchUpdates"]
+- ["So15CALayerDelegateP", "reloadData"]
+- ["So15CALayerDelegateP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So15CALayerDelegateP", "tb_collectionViewSwizzledReloadData"]
+- ["So15CALayerDelegateP", "tb_tableViewSwizzledEndUpdates"]
+- ["So15CALayerDelegateP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So15CALayerDelegateP", "tb_tableViewSwizzledReloadData"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "endUpdates"]
+- ["s7CVarArgP", "performBatchUpdates"]
+- ["s7CVarArgP", "reloadData"]
+- ["s7CVarArgP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["s7CVarArgP", "tb_collectionViewSwizzledReloadData"]
+- ["s7CVarArgP", "tb_tableViewSwizzledEndUpdates"]
+- ["s7CVarArgP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["s7CVarArgP", "tb_tableViewSwizzledReloadData"]
+- ["Sl", ""]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "UICollectionView"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "UICollectionViewDataSource"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "init"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "numberOfSections"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "performBatchUpdates"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "reloadData"]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", "endUpdates"]
+- ["s28CustomDebugStringConvertibleP", "performBatchUpdates"]
+- ["s28CustomDebugStringConvertibleP", "reloadData"]
+- ["s28CustomDebugStringConvertibleP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["s28CustomDebugStringConvertibleP", "tb_collectionViewSwizzledReloadData"]
+- ["s28CustomDebugStringConvertibleP", "tb_tableViewSwizzledEndUpdates"]
+- ["s28CustomDebugStringConvertibleP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["s28CustomDebugStringConvertibleP", "tb_tableViewSwizzledReloadData"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "endUpdates"]
+- ["s23CustomStringConvertibleP", "performBatchUpdates"]
+- ["s23CustomStringConvertibleP", "reloadData"]
+- ["s23CustomStringConvertibleP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["s23CustomStringConvertibleP", "tb_collectionViewSwizzledReloadData"]
+- ["s23CustomStringConvertibleP", "tb_tableViewSwizzledEndUpdates"]
+- ["s23CustomStringConvertibleP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["s23CustomStringConvertibleP", "tb_tableViewSwizzledReloadData"]
+- ["14TBEmptyDataSet13DefaultValuesV", "CGFloat"]
+- ["14TBEmptyDataSet13DefaultValuesV", "descriptionMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "init"]
+- ["14TBEmptyDataSet13DefaultValuesV", "titleMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalOffset"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalSpace"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalSpaces"]
+- ["SQ", ""]
+- ["SQ", "endUpdates"]
+- ["SQ", "performBatchUpdates"]
+- ["SQ", "reloadData"]
+- ["SQ", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["SQ", "tb_collectionViewSwizzledReloadData"]
+- ["SQ", "tb_tableViewSwizzledEndUpdates"]
+- ["SQ", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["SQ", "tb_tableViewSwizzledReloadData"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s25ExpressibleByFloatLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "IntegerLiteralType"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SF", ""]
+- ["SH", ""]
+- ["SH", "endUpdates"]
+- ["SH", "performBatchUpdates"]
+- ["SH", "reloadData"]
+- ["SH", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["SH", "tb_collectionViewSwizzledReloadData"]
+- ["SH", "tb_tableViewSwizzledEndUpdates"]
+- ["SH", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["SH", "tb_tableViewSwizzledReloadData"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "endUpdates"]
+- ["So8NSCodingP", "performBatchUpdates"]
+- ["So8NSCodingP", "reloadData"]
+- ["So8NSCodingP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So8NSCodingP", "tb_collectionViewSwizzledReloadData"]
+- ["So8NSCodingP", "tb_tableViewSwizzledEndUpdates"]
+- ["So8NSCodingP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So8NSCodingP", "tb_tableViewSwizzledReloadData"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "endUpdates"]
+- ["So8NSObjectC", "performBatchUpdates"]
+- ["So8NSObjectC", "reloadData"]
+- ["So8NSObjectC", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So8NSObjectC", "tb_collectionViewSwizzledReloadData"]
+- ["So8NSObjectC", "tb_tableViewSwizzledEndUpdates"]
+- ["So8NSObjectC", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So8NSObjectC", "tb_tableViewSwizzledReloadData"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "endUpdates"]
+- ["So8NSObjectP", "numberOfSections"]
+- ["So8NSObjectP", "performBatchUpdates"]
+- ["So8NSObjectP", "reloadData"]
+- ["So8NSObjectP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So8NSObjectP", "tb_collectionViewSwizzledReloadData"]
+- ["So8NSObjectP", "tb_tableViewSwizzledEndUpdates"]
+- ["So8NSObjectP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So8NSObjectP", "tb_tableViewSwizzledReloadData"]
+- ["Sj", ""]
+- ["14TBEmptyDataSet9SelectorsV", "UIScrollView"]
+- ["14TBEmptyDataSet9SelectorsV", "collectionViewSwizzledPerformBatchUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "collectionViewSwizzledReloadData"]
+- ["14TBEmptyDataSet9SelectorsV", "init"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledEndUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledPerformBatchUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledReloadData"]
+- ["ST", ""]
+- ["s13SignedNumericP", ""]
+- ["Sx", ""]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "UITableView"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "UITableViewDataSource"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "endUpdates"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "init"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "numberOfSections"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "performBatchUpdates"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "reloadData"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "endUpdates"]
+- ["So29UIAccessibilityIdentificationP", "performBatchUpdates"]
+- ["So29UIAccessibilityIdentificationP", "reloadData"]
+- ["So29UIAccessibilityIdentificationP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So29UIAccessibilityIdentificationP", "tb_collectionViewSwizzledReloadData"]
+- ["So29UIAccessibilityIdentificationP", "tb_tableViewSwizzledEndUpdates"]
+- ["So29UIAccessibilityIdentificationP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So29UIAccessibilityIdentificationP", "tb_tableViewSwizzledReloadData"]
+- ["So12UIAppearanceP", "endUpdates"]
+- ["So12UIAppearanceP", "performBatchUpdates"]
+- ["So12UIAppearanceP", "reloadData"]
+- ["So12UIAppearanceP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So12UIAppearanceP", "tb_collectionViewSwizzledReloadData"]
+- ["So12UIAppearanceP", "tb_tableViewSwizzledEndUpdates"]
+- ["So12UIAppearanceP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So12UIAppearanceP", "tb_tableViewSwizzledReloadData"]
+- ["So21UIAppearanceContainerP", "endUpdates"]
+- ["So21UIAppearanceContainerP", "performBatchUpdates"]
+- ["So21UIAppearanceContainerP", "reloadData"]
+- ["So21UIAppearanceContainerP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So21UIAppearanceContainerP", "tb_collectionViewSwizzledReloadData"]
+- ["So21UIAppearanceContainerP", "tb_tableViewSwizzledEndUpdates"]
+- ["So21UIAppearanceContainerP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So21UIAppearanceContainerP", "tb_tableViewSwizzledReloadData"]
+- ["So16UICollectionViewC", "performBatchUpdates"]
+- ["So16UICollectionViewC", "reloadData"]
+- ["So26UICollectionViewDataSourceP", "numberOfSections"]
+- ["So17UICoordinateSpaceP", "endUpdates"]
+- ["So17UICoordinateSpaceP", "performBatchUpdates"]
+- ["So17UICoordinateSpaceP", "reloadData"]
+- ["So17UICoordinateSpaceP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So17UICoordinateSpaceP", "tb_collectionViewSwizzledReloadData"]
+- ["So17UICoordinateSpaceP", "tb_tableViewSwizzledEndUpdates"]
+- ["So17UICoordinateSpaceP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So17UICoordinateSpaceP", "tb_tableViewSwizzledReloadData"]
+- ["So23UIDataSourceTranslatingP", "endUpdates"]
+- ["So23UIDataSourceTranslatingP", "performBatchUpdates"]
+- ["So23UIDataSourceTranslatingP", "reloadData"]
+- ["So13UIDynamicItemP", "endUpdates"]
+- ["So13UIDynamicItemP", "performBatchUpdates"]
+- ["So13UIDynamicItemP", "reloadData"]
+- ["So13UIDynamicItemP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So13UIDynamicItemP", "tb_collectionViewSwizzledReloadData"]
+- ["So13UIDynamicItemP", "tb_tableViewSwizzledEndUpdates"]
+- ["So13UIDynamicItemP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So13UIDynamicItemP", "tb_tableViewSwizzledReloadData"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "endUpdates"]
+- ["So18UIFocusEnvironmentP", "performBatchUpdates"]
+- ["So18UIFocusEnvironmentP", "reloadData"]
+- ["So18UIFocusEnvironmentP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So18UIFocusEnvironmentP", "tb_collectionViewSwizzledReloadData"]
+- ["So18UIFocusEnvironmentP", "tb_tableViewSwizzledEndUpdates"]
+- ["So18UIFocusEnvironmentP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So18UIFocusEnvironmentP", "tb_tableViewSwizzledReloadData"]
+- ["So11UIFocusItemP", "endUpdates"]
+- ["So11UIFocusItemP", "performBatchUpdates"]
+- ["So11UIFocusItemP", "reloadData"]
+- ["So11UIFocusItemP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So11UIFocusItemP", "tb_collectionViewSwizzledReloadData"]
+- ["So11UIFocusItemP", "tb_tableViewSwizzledEndUpdates"]
+- ["So11UIFocusItemP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So11UIFocusItemP", "tb_tableViewSwizzledReloadData"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "endUpdates"]
+- ["So20UIFocusItemContainerP", "performBatchUpdates"]
+- ["So20UIFocusItemContainerP", "reloadData"]
+- ["So20UIFocusItemContainerP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So20UIFocusItemContainerP", "tb_collectionViewSwizzledReloadData"]
+- ["So20UIFocusItemContainerP", "tb_tableViewSwizzledEndUpdates"]
+- ["So20UIFocusItemContainerP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So20UIFocusItemContainerP", "tb_tableViewSwizzledReloadData"]
+- ["So30UIFocusItemScrollableContainerP", "endUpdates"]
+- ["So30UIFocusItemScrollableContainerP", "performBatchUpdates"]
+- ["So30UIFocusItemScrollableContainerP", "reloadData"]
+- ["So30UIFocusItemScrollableContainerP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So30UIFocusItemScrollableContainerP", "tb_collectionViewSwizzledReloadData"]
+- ["So30UIFocusItemScrollableContainerP", "tb_tableViewSwizzledEndUpdates"]
+- ["So30UIFocusItemScrollableContainerP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So30UIFocusItemScrollableContainerP", "tb_tableViewSwizzledReloadData"]
+- ["So24UILargeContentViewerItemP", "endUpdates"]
+- ["So24UILargeContentViewerItemP", "performBatchUpdates"]
+- ["So24UILargeContentViewerItemP", "reloadData"]
+- ["So24UILargeContentViewerItemP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So24UILargeContentViewerItemP", "tb_collectionViewSwizzledReloadData"]
+- ["So24UILargeContentViewerItemP", "tb_tableViewSwizzledEndUpdates"]
+- ["So24UILargeContentViewerItemP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So24UILargeContentViewerItemP", "tb_tableViewSwizzledReloadData"]
+- ["So30UIPasteConfigurationSupportingP", "endUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "performBatchUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- ["So30UIPasteConfigurationSupportingP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "tb_collectionViewSwizzledReloadData"]
+- ["So30UIPasteConfigurationSupportingP", "tb_tableViewSwizzledEndUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "tb_tableViewSwizzledReloadData"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "endUpdates"]
+- ["So11UIResponderC", "performBatchUpdates"]
+- ["So11UIResponderC", "reloadData"]
+- ["So11UIResponderC", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So11UIResponderC", "tb_collectionViewSwizzledReloadData"]
+- ["So11UIResponderC", "tb_tableViewSwizzledEndUpdates"]
+- ["So11UIResponderC", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So11UIResponderC", "tb_tableViewSwizzledReloadData"]
+- ["So30UIResponderStandardEditActionsP", "endUpdates"]
+- ["So30UIResponderStandardEditActionsP", "performBatchUpdates"]
+- ["So30UIResponderStandardEditActionsP", "reloadData"]
+- ["So30UIResponderStandardEditActionsP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So30UIResponderStandardEditActionsP", "tb_collectionViewSwizzledReloadData"]
+- ["So30UIResponderStandardEditActionsP", "tb_tableViewSwizzledEndUpdates"]
+- ["So30UIResponderStandardEditActionsP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So30UIResponderStandardEditActionsP", "tb_tableViewSwizzledReloadData"]
+- ["So12UIScrollViewC", ""]
+- ["So12UIScrollViewC", "endUpdates"]
+- ["So12UIScrollViewC", "performBatchUpdates"]
+- ["So12UIScrollViewC", "reloadData"]
+- ["So12UIScrollViewC", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So12UIScrollViewC", "tb_collectionViewSwizzledReloadData"]
+- ["So12UIScrollViewC", "tb_tableViewSwizzledEndUpdates"]
+- ["So12UIScrollViewC", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So12UIScrollViewC", "tb_tableViewSwizzledReloadData"]
+- ["So35UISpringLoadedInteractionSupportingP", "endUpdates"]
+- ["So35UISpringLoadedInteractionSupportingP", "performBatchUpdates"]
+- ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- ["So11UITableViewC", "endUpdates"]
+- ["So11UITableViewC", "performBatchUpdates"]
+- ["So11UITableViewC", "reloadData"]
+- ["So21UITableViewDataSourceP", "numberOfSections"]
+- ["So18UITraitEnvironmentP", "endUpdates"]
+- ["So18UITraitEnvironmentP", "performBatchUpdates"]
+- ["So18UITraitEnvironmentP", "reloadData"]
+- ["So18UITraitEnvironmentP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So18UITraitEnvironmentP", "tb_collectionViewSwizzledReloadData"]
+- ["So18UITraitEnvironmentP", "tb_tableViewSwizzledEndUpdates"]
+- ["So18UITraitEnvironmentP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So18UITraitEnvironmentP", "tb_tableViewSwizzledReloadData"]
+- ["So23UIUserActivityRestoringP", "endUpdates"]
+- ["So23UIUserActivityRestoringP", "performBatchUpdates"]
+- ["So23UIUserActivityRestoringP", "reloadData"]
+- ["So23UIUserActivityRestoringP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So23UIUserActivityRestoringP", "tb_collectionViewSwizzledReloadData"]
+- ["So23UIUserActivityRestoringP", "tb_tableViewSwizzledEndUpdates"]
+- ["So23UIUserActivityRestoringP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So23UIUserActivityRestoringP", "tb_tableViewSwizzledReloadData"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "endUpdates"]
+- ["So6UIViewC", "performBatchUpdates"]
+- ["So6UIViewC", "reloadData"]
+- ["So6UIViewC", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["So6UIViewC", "tb_collectionViewSwizzledReloadData"]
+- ["So6UIViewC", "tb_tableViewSwizzledEndUpdates"]
+- ["So6UIViewC", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["So6UIViewC", "tb_tableViewSwizzledReloadData"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "endUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "performBatchUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tb_collectionViewSwizzledReloadData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tb_tableViewSwizzledEndUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tb_tableViewSwizzledReloadData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "endUpdates"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "performBatchUpdates"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "reloadData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tb_collectionViewSwizzledReloadData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tb_tableViewSwizzledEndUpdates"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tb_tableViewSwizzledReloadData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "endUpdates"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "performBatchUpdates"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "tb_collectionViewSwizzledPerformBatchUpdates"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "tb_collectionViewSwizzledReloadData"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "tb_tableViewSwizzledEndUpdates"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "tb_tableViewSwizzledPerformBatchUpdates"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "tb_tableViewSwizzledReloadData"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "14TBEmptyDataSet14AssociatedKeysV"
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "14TBEmptyDataSet23CollectionViewSelectorsV"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "14TBEmptyDataSet13DefaultValuesV"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SF"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "Sj"
+- "14TBEmptyDataSet9SelectorsV"
+- "ST"
+- "s13SignedNumericP"
+- "Sx"
+- "14TBEmptyDataSet18TableViewSelectorsV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So16UICollectionViewC"
+- "So26UICollectionViewDataSourceP"
+- "So17UICoordinateSpaceP"
+- "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIFocusItemScrollableContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So11UITableViewC"
+- "So21UITableViewDataSourceP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "32f133e18a83729b42f0894c75e2cf0c"

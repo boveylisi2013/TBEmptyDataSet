@@ -1,0 +1,330 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmptyDataView"
+provides-nominal:
+- "14TBEmptyDataSet05EmptyB4ViewC"
+provides-member:
+- ["14TBEmptyDataSet05EmptyB4ViewC", ""]
+provides-dynamic-lookup:
+- "$__lazy_storage_$_contentView"
+- "$__lazy_storage_$_descriptionLabel"
+- "$__lazy_storage_$_imageView"
+- "$__lazy_storage_$_titleLabel"
+- "contentView"
+- "customView"
+- "descriptionLabel"
+- "descriptionMargin"
+- "didMoveToSuperview"
+- "imageView"
+- "prepareForDisplay"
+- "removeAllConstraints"
+- "reset"
+- "setConstraints"
+- "shouldShowDescriptionLabel"
+- "shouldShowImageView"
+- "shouldShowTitleLabel"
+- "tapGesture"
+- "titleLabel"
+- "titleMargin"
+- "verticalOffset"
+- "verticalSpaces"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+="
+- !private "-"
+- !private "<"
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGRect"
+- "DefaultValues"
+- "EmptyDataView"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- !private "NSLayoutConstraint"
+- !private "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UIImageView"
+- "UILabel"
+- "UITapGestureRecognizer"
+- "UIView"
+- !private "UnicodeScalarType"
+- !private "ViewStrings"
+- "Void"
+- !private "addConstraint"
+- !private "addConstraints"
+- !private "addSubview"
+- !private "constraints"
+- !private "contentView"
+- !private "customView"
+- !private "descriptionLabel"
+- !private "descriptionMargin"
+- !private "frame"
+- !private "imageView"
+- !private "removeAllConstraints"
+- !private "removeConstraints"
+- !private "shouldShowDescriptionLabel"
+- !private "shouldShowImageView"
+- !private "shouldShowTitleLabel"
+- !private "tapGesture"
+- !private "titleLabel"
+- !private "titleMargin"
+- !private "verticalOffset"
+- !private "verticalSpaces"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "init"]
+- !private ["SK", ""]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "init"]
+- !private ["SK", "isEmpty"]
+- !private ["Sl", ""]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- !private ["SL", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["Se", "append"]
+- !private ["Se", "count"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["14TBEmptyDataSet13DefaultValuesV", "descriptionMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "titleMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalOffset"]
+- !private ["14TBEmptyDataSet13DefaultValuesV", "verticalSpace"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalSpaces"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "$__lazy_storage_$_contentView"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "$__lazy_storage_$_descriptionLabel"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "$__lazy_storage_$_imageView"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "$__lazy_storage_$_titleLabel"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "Bool"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "CGRect"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "DefaultValues"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "NSCoder"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "NSLayoutConstraint"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "String"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "UIImageView"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "UILabel"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "UITapGestureRecognizer"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "UIView"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "ViewStrings"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "Void"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "addConstraint"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "addConstraints"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "addSubview"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "constraints"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "contentView"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "customView"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "deinit"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "descriptionLabel"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "descriptionMargin"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "didMoveToSuperview"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "frame"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "imageView"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "init"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "prepareForDisplay"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "removeAllConstraints"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "removeConstraints"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "reset"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "setConstraints"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "shouldShowDescriptionLabel"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "shouldShowImageView"]
+- !private ["14TBEmptyDataSet05EmptyB4ViewC", "shouldShowTitleLabel"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "tapGesture"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "titleLabel"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "titleMargin"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "verticalOffset"]
+- ["14TBEmptyDataSet05EmptyB4ViewC", "verticalSpaces"]
+- !private ["SE", "append"]
+- !private ["SE", "count"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SQ", ""]
+- !private ["SQ", "append"]
+- !private ["SQ", "count"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["SH", ""]
+- !private ["SH", "append"]
+- !private ["SH", "count"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- !private ["SM", "enumerated"]
+- !private ["SM", "init"]
+- !private ["Sj", ""]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- !private ["Sk", "enumerated"]
+- !private ["Sk", "init"]
+- !private ["Sm", ""]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "init"]
+- !private ["Sm", "isEmpty"]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- !private ["ST", ""]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "makeIterator"]
+- !private ["Sx", ""]
+- !private ["SS", "init"]
+- !private ["SS", "isEmpty"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "isEmpty"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "enumerated"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- "14TBEmptyDataSet13DefaultValuesV"
+- "14TBEmptyDataSet05EmptyB4ViewC"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+interface-hash: "624e6678af43bc1d329977a1d033d325"

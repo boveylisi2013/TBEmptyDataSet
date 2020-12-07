@@ -1,0 +1,14 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.TBEmptyDataSet-debug.module" : "TBEmptyDataSet"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

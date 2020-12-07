@@ -1,0 +1,81 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TBEmptyDataSetDataSource"
+- "TBEmptyDataSetDelegate"
+provides-nominal:
+- "14TBEmptyDataSet0abcB6SourceP"
+- "14TBEmptyDataSet0abC8DelegateP"
+provides-member:
+- ["14TBEmptyDataSet0abcB6SourceP", ""]
+- ["14TBEmptyDataSet0abC8DelegateP", ""]
+- ["14TBEmptyDataSet0abcB6SourceP", "imageForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "titleForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "descriptionForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "imageTintColorForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "backgroundColorForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "verticalOffsetForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "verticalSpacesForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "titleMarginForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "descriptionMarginForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "customViewForEmptyDataSet"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetShouldDisplay"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetTapEnabled"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetScrollEnabled"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidTapEmptyView"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetWillAppear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidAppear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetWillDisappear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidDisappear"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "NSAttributedString"
+- "TBEmptyDataSetDataSource"
+- "TBEmptyDataSetDelegate"
+- "UIColor"
+- "UIImage"
+- "UIScrollView"
+- "UIView"
+depends-member:
+- ["14TBEmptyDataSet0abcB6SourceP", "CGFloat"]
+- ["14TBEmptyDataSet0abcB6SourceP", "NSAttributedString"]
+- ["14TBEmptyDataSet0abcB6SourceP", "UIColor"]
+- ["14TBEmptyDataSet0abcB6SourceP", "UIImage"]
+- ["14TBEmptyDataSet0abcB6SourceP", "UIScrollView"]
+- ["14TBEmptyDataSet0abcB6SourceP", "UIView"]
+- ["14TBEmptyDataSet0abcB6SourceP", ""]
+- ["14TBEmptyDataSet0abcB6SourceP", "backgroundColorForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "customViewForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "descriptionForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "descriptionMarginForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "imageForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "imageTintColorForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "titleForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "titleMarginForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "verticalOffsetForEmptyDataSet"]
+- ["14TBEmptyDataSet0abcB6SourceP", "verticalSpacesForEmptyDataSet"]
+- ["14TBEmptyDataSet0abC8DelegateP", "Bool"]
+- ["14TBEmptyDataSet0abC8DelegateP", "UIScrollView"]
+- ["14TBEmptyDataSet0abC8DelegateP", ""]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidAppear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidDisappear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetDidTapEmptyView"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetScrollEnabled"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetShouldDisplay"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetTapEnabled"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetWillAppear"]
+- ["14TBEmptyDataSet0abC8DelegateP", "emptyDataSetWillDisappear"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+depends-nominal:
+- "14TBEmptyDataSet0abcB6SourceP"
+- "14TBEmptyDataSet0abC8DelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+interface-hash: "2fe21dcaf82bd44bc0d0aee53193b9b7"

@@ -1,0 +1,29 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WeakObjectContainer"
+provides-nominal:
+- "14TBEmptyDataSet19WeakObjectContainerC"
+provides-member:
+- ["14TBEmptyDataSet19WeakObjectContainerC", ""]
+provides-dynamic-lookup:
+- "object"
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "NSObject"
+- "WeakObjectContainer"
+depends-member:
+- ["14TBEmptyDataSet19WeakObjectContainerC", "AnyObject"]
+- ["14TBEmptyDataSet19WeakObjectContainerC", "deinit"]
+- ["14TBEmptyDataSet19WeakObjectContainerC", "init"]
+- ["14TBEmptyDataSet19WeakObjectContainerC", "object"]
+depends-nominal:
+- "14TBEmptyDataSet19WeakObjectContainerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+interface-hash: "325a53d7d12b1b78b638615d968431f2"

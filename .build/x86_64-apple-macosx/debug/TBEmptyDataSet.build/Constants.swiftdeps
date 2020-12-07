@@ -1,0 +1,81 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AssociatedKeys"
+- "Selectors"
+- "TableViewSelectors"
+- "CollectionViewSelectors"
+- "DefaultValues"
+provides-nominal:
+- "14TBEmptyDataSet14AssociatedKeysV"
+- "14TBEmptyDataSet9SelectorsV"
+- "14TBEmptyDataSet18TableViewSelectorsV"
+- "14TBEmptyDataSet23CollectionViewSelectorsV"
+- "14TBEmptyDataSet13DefaultValuesV"
+provides-member:
+- ["14TBEmptyDataSet14AssociatedKeysV", ""]
+- ["14TBEmptyDataSet9SelectorsV", ""]
+- ["14TBEmptyDataSet18TableViewSelectorsV", ""]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", ""]
+- ["14TBEmptyDataSet13DefaultValuesV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Array"
+- "AssociatedKeys"
+- "CGFloat"
+- "CollectionViewSelectors"
+- "DefaultValues"
+- "Selectors"
+- "StringLiteralType"
+- "TableViewSelectors"
+- "UICollectionView"
+- "UICollectionViewDataSource"
+- "UIScrollView"
+- "UITableView"
+- "UITableViewDataSource"
+- "verticalSpace"
+depends-member:
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataSetDataSource"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataSetDelegate"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "emptyDataView"]
+- ["14TBEmptyDataSet14AssociatedKeysV", "init"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "UICollectionView"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "UICollectionViewDataSource"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "init"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "numberOfSections"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "performBatchUpdates"]
+- ["14TBEmptyDataSet23CollectionViewSelectorsV", "reloadData"]
+- ["14TBEmptyDataSet13DefaultValuesV", "CGFloat"]
+- ["14TBEmptyDataSet13DefaultValuesV", "descriptionMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "init"]
+- ["14TBEmptyDataSet13DefaultValuesV", "titleMargin"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalOffset"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalSpace"]
+- ["14TBEmptyDataSet13DefaultValuesV", "verticalSpaces"]
+- ["14TBEmptyDataSet9SelectorsV", "UIScrollView"]
+- ["14TBEmptyDataSet9SelectorsV", "collectionViewSwizzledPerformBatchUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "collectionViewSwizzledReloadData"]
+- ["14TBEmptyDataSet9SelectorsV", "init"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledEndUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledPerformBatchUpdates"]
+- ["14TBEmptyDataSet9SelectorsV", "tableViewSwizzledReloadData"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "UITableView"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "UITableViewDataSource"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "endUpdates"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "init"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "numberOfSections"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "performBatchUpdates"]
+- ["14TBEmptyDataSet18TableViewSelectorsV", "reloadData"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "14TBEmptyDataSet14AssociatedKeysV"
+- "14TBEmptyDataSet23CollectionViewSelectorsV"
+- "14TBEmptyDataSet13DefaultValuesV"
+- "14TBEmptyDataSet9SelectorsV"
+- "14TBEmptyDataSet18TableViewSelectorsV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+interface-hash: "32f133e18a83729b42f0894c75e2cf0c"

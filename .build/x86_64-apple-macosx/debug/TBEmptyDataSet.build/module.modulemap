@@ -1,0 +1,4 @@
+module TBEmptyDataSet {
+    header "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/.build/x86_64-apple-macosx/debug/TBEmptyDataSet.build/TBEmptyDataSet-Swift.h"
+    requires objc
+}
