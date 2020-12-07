@@ -13,18 +13,7 @@ let package = Package(name: "TBEmptyDataSet",
   targets: [
     .target(
       name: "TBEmptyDataSet",
-      path: "Source",
-      linkerSettings: [
-        .linkedFramework("CFNetwork",
-        .when(
-          platforms: [
-            .iOS,
-            .macOS,
-            .tvOS,
-            .watchOS
-          ])
-        )
-      ]
+      path: "Source"
     )
   ],
   swiftLanguageVersions: [.v5]
