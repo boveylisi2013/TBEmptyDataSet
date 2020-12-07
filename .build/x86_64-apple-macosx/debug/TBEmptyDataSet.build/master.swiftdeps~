@@ -1,9 +1,9 @@
 version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
-options: "a287f8ac71400d86e95aebf9caace229"
-build_time: [1607372879, 607645000]
+options: "34913701b554dbd8abbc30e997bf93aa"
+build_time: [1607373039, 499672000]
 inputs:
-  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Constants.swift": !dirty [1607367429, 40172378]
-  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/EmptyDataView.swift": !dirty [1607367429, 40578647]
-  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Protocols.swift": !dirty [1607367429, 40908835]
-  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/TBEmptyDataSet.swift": !dirty [1607367429, 42560131]
-  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/WeakObjectContainer.swift": !dirty [1607367429, 42858097]
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Constants.swift": [1607367429, 40172378]
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/EmptyDataView.swift": [1607367429, 40578647]
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/Protocols.swift": [1607367429, 40908835]
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/TBEmptyDataSet.swift": [1607367429, 42560131]
+  "/Users/sili/Desktop/Projects/TradeNote-Project/GithubLib/TBEmptyDataSet/Source/TBEmptyDataSet/WeakObjectContainer.swift": [1607367429, 42858097]
